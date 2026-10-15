@@ -5,6 +5,7 @@ future behavior.
 
 - [Current WP1–WP6 findings](research/PUBLIC_STATUS.md)
 - [Methods and interpretation rules](research/PUBLIC_METHODS.md)
+- [Selected stage reports](reports/README.md)
 
 The published code is a small, offline, synthetic-testable subset of the
 analysis. It does not include benchmark conversations, raw model responses,
