@@ -16,3 +16,10 @@ Start with the [research status](../research/PUBLIC_STATUS.md) and
 [methods](../research/PUBLIC_METHODS.md). The original task-level evidence is
 retained privately; unavailable fields and unvalidated closed-loop restoration
 remain explicit limitations rather than inferred results.
+
+The [post-October-15 experiment synthesis](post_2026_10_15_experiment_synthesis_2026_11_02.md)
+updates the early public snapshot through 2026-11-02. Its companion
+[deep-analysis guide](../research/POST_2026_10_15_DEEP_ANALYSIS_GUIDE.md)
+lists the private evidence versions and the next reproducible analyses without
+publishing raw samples.
+
