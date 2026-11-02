@@ -7,6 +7,8 @@ locally restored, multi-step agent–user–tool–environment experiments. Thes
 valuable local mechanisms, not a general sufficiency result. See the
 [post-October-15 synthesis](../reports/post_2026_10_15_experiment_synthesis_2026_11_02.md)
 and [deep-analysis guide](POST_2026_10_15_DEEP_ANALYSIS_GUIDE.md).
+The [notable-sample addendum](../reports/post_2026_10_15_notable_sample_cases_2026_11_02.md)
+documents informative positive, negative and method-limited cases side by side.
 
 ## Evidence available at the current checkpoint
 
