@@ -23,3 +23,8 @@ updates the early public snapshot through 2026-11-02. Its companion
 lists the private evidence versions and the next reproducible analyses without
 publishing raw samples.
 
+The [notable-sample addendum](post_2026_10_15_notable_sample_cases_2026_11_02.md)
+separates preflight-qualified anchors, observed closed-loop mechanisms,
+non-replicated signals, and method/measurement counterexamples. It intentionally
+keeps individual benchmark payloads and raw traces private.
+
